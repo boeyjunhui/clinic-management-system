@@ -1,5 +1,5 @@
 # Clinic Management System
-The Oceana Clinic Management System is developed using Visual Basic .NET.
+The Oceana Clinic Management System is a desktop application developed using Visual Basic .NET.
 
 <br>
 
